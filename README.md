@@ -1,36 +1,18 @@
-# EMPLOYEE_SYSTEM
-using java HashMap using without database small employee manage system demo
+## Getting Started
 
-# Employee Managements System 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-  employee management system using the java language.
- 
+## Folder Structure
 
-## Description
+The workspace contains two folders by default, where:
 
-I have done this project to an employee management system, features like update, add, delete, view have been added, only basic java methods have been used, the code has been simplified according to OOP CONCEPT and the project has been built.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Use the OOP Concept [employee management system](https://github.com/ManojWickramasingha/EMPLOYEE_SYSTEM.git/) to .
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
+## Dependency Management
 
-## Usage
-
-```java
-import java.util.Scanner
-import java.io.Serializable
-import java.util.HashMap
-
-
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-
-
-
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
